@@ -13,5 +13,7 @@
 * git branch nueva-rama
 * git checkout nueva-rama
 * git merge nueva-rama 'desde la rama master'
-*git push origin master
-*git remote ver los remotos
+* git push origin master
+* git remote ver los remotos
+* git push para publicar
+* git pull para actualiza
