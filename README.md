@@ -14,9 +14,8 @@
 * git branch nueva-rama
 * git checkout nueva-rama
 * git merge nueva-rama 'desde la rama master'
-* git push origin master
 * git remote ver los remotos
-* git push para publicar
-* git pull para actualiza
+* ``git push origin master`` para publicar
+* ``git pull origin master`` para actualiza
 * git clone copias un repositorio remoto en local
 * `` git remote rm `` borra un remoto externo
