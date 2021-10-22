@@ -17,3 +17,5 @@
 * git remote ver los remotos
 * git push para publicar
 * git pull para actualiza
+* git clone copias un repositorio remoto en local
+* `` git remote rm `` borra un remoto externo
