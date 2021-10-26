@@ -19,3 +19,4 @@
 * ``git pull origin master`` para actualiza
 * git clone copias un repositorio remoto en local
 * `` git remote rm `` borra un remoto externo
+* configurar email git config --global user.email tuemail@gmail.com
